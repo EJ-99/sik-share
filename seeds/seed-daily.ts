@@ -8,7 +8,7 @@ const prisma = new PrismaClient({
   },
 });
 
-const TEST_USER_ID = "70a028e23-eafa-48e2-8c4c-9c5781dcf529";
+const TEST_USER_ID = "0a028e23-eafa-48e2-8c4c-9c5781dcf529";
 
 const ITEM_IMAGE_MAP: Record<string, string[]> = {
   "바나나" :[
